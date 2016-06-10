@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\IterativamenteXRecursivamente\IterativamenteXRecursivamente\bin\Debug\IterativamenteXRecursivamente.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\IterativamenteXRecursivamente\IterativamenteXRecursivamente\obj\Debug\IterativamenteXRecursivamente.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\IterativamenteXRecursivamente\IterativamenteXRecursivamente\bin\Debug\IterativamenteXRecursivamente.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\IterativamenteXRecursivamente\IterativamenteXRecursivamente\bin\Debug\IterativamenteXRecursivamente.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\IterativamenteXRecursivamente\IterativamenteXRecursivamente\obj\Debug\IterativamenteXRecursivamente.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\IterativamenteXRecursivamente\IterativamenteXRecursivamente\obj\Debug\IterativamenteXRecursivamente.pdb
